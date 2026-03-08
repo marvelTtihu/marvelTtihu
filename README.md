@@ -1,5 +1,6 @@
 ## What's Up? I'm Marvel Tihu 👋
 ### Computer Science enthusiast & self-taught developer
+### From Indonesia
 
 ---
 
