@@ -4,9 +4,9 @@
 ---
 
 ## 🔭 Currently Learning
-- JavaScript (DOM, ES6+)
 - Python projects
 - Building projects with HTML & CSS
+- JavaScript Basic
 
 ---
 
