@@ -1,7 +1,6 @@
 ## What's Up? I'm Marvel Tihu 👋
 ### Computer Science enthusiast & self-taught developer
 
-
 ---
 
 ## 🔭 Currently Learning
@@ -20,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marvelTtihu&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marvelTtihu&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
 
 ---
 
