@@ -19,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=marvelTtihu&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-inky-six-82.vercel.app/api?username=marvelTtihu&show_icons=true&hide_border=true)
 
 ---
 
