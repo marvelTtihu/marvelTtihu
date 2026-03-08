@@ -19,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marvelTtihu&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=marvelTtihu&show_icons=true&hide_border=true)
 
 ---
 
