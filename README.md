@@ -5,9 +5,10 @@
 ---
 
 ## 🔭 Currently Learning
-- Python projects
+
 - Building projects with HTML & CSS
 - JavaScript Basic
+- Python
 
 ---
 
