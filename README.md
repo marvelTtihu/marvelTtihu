@@ -24,4 +24,4 @@
 
 ## 📫 Reach Me
 - 📸 Instagram: [@marvelt_](https://instagram.com/marvelt_)
-- 🐦 Twitter: [@TihuMarvel](https://twitter.com/TihuMarvel)
+- 🐦 Twitter/X: [@TihuMarvel](https://twitter.com/TihuMarvel)
