@@ -14,7 +14,7 @@
 
 
 ## 🌐 Personal Page
-[Look here](https://marvelttihu.github.io/marvelTtihu/)
+[marvelTtihu.github.io](https://marvelttihu.github.io/marvelTtihu/)
 > Stats are goals, not facts 😅
 
 
