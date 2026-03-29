@@ -15,7 +15,8 @@
 
 ## 🌐 Personal Page
 [Look here](https://marvelttihu.github.io/marvelTtihu/)
-``Stat-cards is not real``
+> Stats are goals, not facts 😅
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-inky-six-82.vercel.app/api?username=marvelTtihu&show_icons=true&hide_border=true)
