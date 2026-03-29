@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio website for Marvel Tihu, a full-stack developer">
+    <title>Personal Page | MVT</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+
+<!-- navbar -->
+<nav class="navbar">        
+    <div class="my-logo"><span class="logo-text">MVT</span><span>.</span></div>
+    <div class="hamburger" id="hamburger">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+    </div>
+    <ul class="nav-list">   
+        <li><a href="#hero">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li class="nav-btn"><a href="#contact">Contact Me</a></li>
+    </ul>
+</nav>
+
+<!-- Hero section -->
+<main id="hero" class="hero">
+    <svg class="hero-svg-bg" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+        <rect x="900" y="50" width="120" height="120" rx="16" fill="none" stroke="#2C2A25" stroke-width="1.5" opacity="0.25"/>
+        <rect x="1050" y="200" width="80" height="80" rx="12" fill="none" stroke="#2C2A25" stroke-width="1" opacity="0.18"/>
+        <rect x="50" y="500" width="90" height="90" rx="12" fill="none" stroke="#2C2A25" stroke-width="1" opacity="0.12"/>
+        <rect x="1000" y="500" width="60" height="60" rx="8" fill="#2C2A25" opacity="0.12"/>
+        <rect x="150" y="80" width="40" height="40" rx="6" fill="none" stroke="#2C2A25" stroke-width="1" opacity="0.15"/>
+        <rect x="1100" y="550" width="100" height="100" rx="14" fill="none" stroke="#2C2A25" stroke-width="1" opacity="0.14"/>
+        <circle cx="1100" cy="120" r="60" fill="none" stroke="#2C2A25" stroke-width="1.5" opacity="0.15"/>
+        <circle cx="80" cy="350" r="80" fill="none" stroke="#2C2A25" stroke-width="1" opacity="0.14"/>
+        <circle cx="600" cy="650" r="50" fill="none" stroke="#2C2A25" stroke-width="1" opacity="0.21"/>
+        <circle cx="1150" cy="400" r="25" fill="#2C2A25" opacity="0.21"/>
+        <circle cx="200" cy="200" r="15" fill="#2C2A25" opacity="0.12"/>
+        <circle cx="400" cy="80" r="8" fill="#2C2A25" opacity="0.15"/>
+        <rect x="700" y="580" width="50" height="50" rx="8" fill="none" stroke="#2C2A25" stroke-width="0.8" opacity="0.15"/>
+    </svg>
+    <div class="hero-bg reveal">
+        <div class="hero-left">
+            <div class="hero-content">
+                <h1>Hello, I'm <span class="hero-name">MARVEL TIHU</span></h1>
+                <p>Full-Stack Developer · Problem Solver</p>
+                <div class="hero-info">Turning complex ideas into functional and user-friendly digital solutions.</div>
+                <div class="hero-cta">
+                    <a href="#portfolio" class="cta-primary">View Portfolio</a>
+                </div>
+            </div>
+        </div>
+        <div class="hero-right">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-number">12+</span>
+                    <span class="stat-label">Projects Done</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number">2+</span>
+                    <span class="stat-label">Years Experience</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number">8+</span>
+                    <span class="stat-label">Happy Clients</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number">2</span>
+                    <span class="stat-label">Specializations</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+<!-- About section -->
+<section id="about">
+    <div class="container reveal">  
+        <div class="about-cards reveal">
+            <div class="about-left">
+                <h1>About Me</h1>
+                <p>The name's Marvel Tihu, I'm a full-stack developer with a passion for creating innovative digital solutions. I specialize in web development and game development, and I'm always eager to learn new skills and technologies.</p>
+            </div>
+            <div class="about-right reveal">
+                <h1>Tech Stack</h1>
+                <div class="tech-stack">
+                    <div class="HTML">HTML</div>
+                    <div class="CSS">CSS</div>
+                    <div class="JavaScript">JavaScript</div>
+                    <div class="Python">Python</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Services section -->
+<section id="services">
+    <div class="container reveal">
+        <div class="services-grid reveal">
+            <div class="services-card">
+                <h1>Web Development</h1>
+                <p>Building responsive and modern websites using HTML, CSS, and JavaScript, from landing pages to full web applications.</p>
+            </div>
+            <div class="services-card reveal">
+                <h1>Software Development</h1>
+                <p>Developing functional and efficient software solutions tailored to your needs, with clean and maintainable code.</p>
+            </div>
+            <div class="services-card reveal">
+                <h1>UI/UX Design</h1>
+                <p>Designing clean and intuitive interfaces that prioritize user experience, accessibility, and visual consistency.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Portfolio Section -->
+<section id="portfolio">
+    <div class="container reveal">
+        <div class="portfolio-bg reveal">
+            <h1 class="portfolio-title">My Portfolio</h1>
+            <p class="portfolio-description">Here are some of the projects I've worked on. Click below to see more details.</p>
+            <a href="https://github.com/marvelTtihu?tab=repositories" class="portfolio-cta">View All Projects</a>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<footer id="contact">
+    <div class="container reveal">
+        <div class="contact-bg reveal">
+            <div class="contact-left">
+                <h1>Contact Me</h1>
+                <p>Feel free to reach out for collaborations or just a friendly chat.</p>
+                <div class="social-links">
+                    <a href="https://www.instagram.com/marvelt_" target="_blank">
+                        <i class="fa-brands fa-instagram"></i>Instagram</a>
+                    <a href="https://x.com/TihuMarvel" target="_blank">
+                        <i class="fa-brands fa-twitter"></i>Twitter</a>
+                    <a href="https://github.com/marvelTtihu" target="_blank">
+                        <i class="fa-brands fa-github"></i>GitHub</a>
+                </div>
+            </div>
+            <div class="contact-right">
+                <p>&copy; 2026 Marvel Tihu. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
