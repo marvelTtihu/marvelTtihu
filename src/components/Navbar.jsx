@@ -13,7 +13,7 @@ function Navbar() {
                         <li><a href="#blog">Blog</a></li>
                     </ul>
                 </nav>
-                <a href="#contact" className="inline-block border-2 px-4 py-2 rounded-2xl">Contact Me</a>
+                <a href="#contact" className="inline-block border-2 px-4 py-2 rounded-2xl outline-none">Contact Me</a>
             </div>
         </header>
     );

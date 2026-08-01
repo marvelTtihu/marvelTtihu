@@ -1,6 +1,6 @@
 function About() {
     return(
-        <section id="about" className="py-20 scroll-mt-20">
+        <section id="about" className="py-20 scroll-mt-20 border-b-2">
             <div className="max-w-6xl mx-auto px-4 bg-white-200">
                 <div className="flex flex-col md:flex-row gap-12">
                     <div className="flex-1">
