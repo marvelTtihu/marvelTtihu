@@ -1,13 +1,13 @@
-import Hero from "../components/Hero";
-import About from "../components/About";
-import Projects from "../components/Projects";
+import Hero from "./Sections/Hero"
+import Intro from "./Sections/Intro"
+import FeaturedProjects from "./Sections/FeaturedProjects"
 
 function Home() {
     return(
         <main>
             <Hero />
-            <About />
-            <Projects />
+            <Intro />
+            <FeaturedProjects />
         </main>
     );
 }
