@@ -1,6 +1,6 @@
-import Hero from "./Sections/Hero"
-import Intro from "./Sections/Intro"
-import FeaturedProjects from "./Sections/FeaturedProjects"
+import Hero from "./sections/Hero"
+import Intro from "./sections/Intro"
+import FeaturedProjects from "./sections/FeaturedProjects"
 
 function Home() {
     return(
