@@ -1,6 +1,6 @@
-import FormFilling from "../images/FormFilling.png"
-import FinanceTracker from "../images/FinanceTracker.png"
-import TodoList from "../images/TodoList.png"
+import FormFilling from "../assets/FormFilling.png"
+import FinanceTracker from "../assets/FinanceTracker.png"
+import TodoList from "../assets/TodoList.png"
 
 export const projects = [
     {
@@ -19,7 +19,7 @@ export const projects = [
         featured: true,
         type: "React App",
         link: "",
-        github: "",
+        github: "", 
     },
     {
         id: 3,
