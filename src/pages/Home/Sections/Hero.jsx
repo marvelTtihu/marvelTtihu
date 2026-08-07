@@ -1,6 +1,6 @@
 function Hero() {
     return(
-        <section className="relative min-h-dvh flex justify-center items-center border-b-2">
+        <section className="relative min-h-dvh flex justify-center items-center border-b-2 border-gray-100">
             <div className="text-center space-y-6">
                 <h1 className="font-space text-6xl md:text-8xl font-bold">
                 MARVEL TIHU
