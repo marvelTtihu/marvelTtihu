@@ -5,7 +5,7 @@ import { VscDeveloperTools } from "react-icons/vsc";
 
 function Intro() {
     return(
-        <section className="min-h-[60vh] border-b-2 py-30">
+        <section className="min-h-[60vh] border-b-2 py-32">
             <div className="max-w-5xl mx-auto px-4 flex flex-col space-y-12">
                 <div>
                     <h2 className="border-2 px-2 py-1 font-space text-base md:text-lg rounded-xl max-w-max flex items-center gap-2"><FaAddressBook />Intro</h2>
