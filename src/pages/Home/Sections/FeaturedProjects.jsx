@@ -25,7 +25,7 @@ return(
                             </div>
                             <div className="p-3 space-y-2">
                                 <h4 className="font-space font-semibold text-2xl md:text-4xl">{project.title}</h4>
-                                <p className="bg-gray-1005 max-w-max px-4 py-1 rounded-4xl font-inter">{project.type}</p>
+                                <p className="bg-gray-100 max-w-max px-4 py-1 rounded-4xl font-inter">{project.type}</p>
                             </div>
                         </li>
                     ))}
