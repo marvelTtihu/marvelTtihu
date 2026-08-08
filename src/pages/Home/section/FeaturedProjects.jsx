@@ -8,13 +8,14 @@ const featuredProjects = projects.filter(project => project.featured);
 return(
     <section id="projects">
         <div className="min-h-[60vh] py-32">
-            <div className="max-w-6xl mx-auto flex justify-center items-center flex-col px-4 space-y-10">
+            <div className="max-w-6xl mx-auto flex justify-center items-center flex-col px-4">
                 <div>
-                    <h2 className="px-2 py-1 border-2 max-w-max rounded-xl flex items-center gap-2 font-space text-base md:text-lg ">
+                    <h2 className="px-2 py-1 border-2 max-w-max rounded-xl flex items-center gap-2 font-space text-base md:text-lg mb-4">
                         <FaRegFolder />Works
                     </h2>
                 </div>
-                <h3 className="text-4xl md:text-6xl font-space font-bold">Featured Projects</h3>
+                <h3 className="text-4xl md:text-6xl font-space font-bold mb-6">Featured Projects</h3>
+                <p className="text-xl md:text-2xl font-inter text-center mb-10">Here are some of the projects I've worked on. Click below to see more details.</p>
                 <ul className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-6xl">
                     {featuredProjects.map((project) => (
                         <li key={project.id} className="group overflow-hidden rounded-xl">

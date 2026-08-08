@@ -6,4 +6,4 @@
 - React
 
 ## Personal Page
-[Marvel Tihu](https://marvelttihu.github.io/marvelTtihu/) [W.I.P]
+[W.I.P]

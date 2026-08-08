@@ -1,7 +1,7 @@
-import Hero from "./sections/Hero"
-import Intro from "./sections/Intro"
-import FeaturedProjects from "./sections/FeaturedProjects"
-import CTA from "./sections/CTA"
+import Hero from "./section/Hero"
+import Intro from "./section/Intro"
+import FeaturedProjects from "./section/FeaturedProjects"
+import CTA from "./section/CTA"
 
 function Home() {
     return(
