@@ -22,12 +22,12 @@ function AboutMe() {
                                         Download CV
                                         </a>
                                         <dl className="flex gap-10">
-                                            <div>
-                                                <dt>2+</dt>
+                                            <div className="font-space font-bold">
+                                                <dt className="text-2xl md:text-3xl">2+</dt>
                                                 <dd>Years of experience</dd>
                                             </div>
-                                            <div>
-                                                <dt>15+</dt>
+                                            <div className="font-space font-bold">
+                                                <dt className="text-2xl md:text-3xl">15+</dt>
                                                 <dd>Project completed</dd>
                                             </div>
                                         </dl>
