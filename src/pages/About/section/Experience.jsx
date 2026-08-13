@@ -5,7 +5,7 @@ function Experience() {
         <section>
             <div className="mx-auto px-6 py-24 max-w-6xl">
                 <h2 className="mx-auto flex items-center text-base gap-2 md:text-lg mb-4 border-2 px-2 py-1 max-w-max rounded-xl font-space"><FaEnvelope /> Resume</h2>
-                <h2 className="text-center mb-12 text-3xl md:text-5xl font-space">
+                <h2 className="text-center mb-12 text-3xl md:text-5xl font-inter">
                     My Experience
                 </h2>
 
