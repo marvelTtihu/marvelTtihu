@@ -6,7 +6,7 @@ function AboutMe() {
             <div className="py-28 min-h-[60vh]">
                 <div className="w-full max-w-6xl mx-auto">
                     <div className="flex flex-col items-center">
-                        <h2 className="font-space font-bold text-4xl md:text-6xl mb-12">About</h2>
+                        <h2 className="font-space font-bold text-4xl md:text-6xl mb-20">About</h2>
                         <div className="flex flex-col md:flex-row gap-12 items-start md:border-2 md:border-gray-200 md:shadow-lg p-10 md:rounded-xl">
                             <img src={Profile} alt="Profile Picture" className="w-80 h-80 md:w-120 md:h-120 object-cover rounded-xl self-center"/>
                             <div className="flex flex-col items-start text-justify gap-4 w-full">
