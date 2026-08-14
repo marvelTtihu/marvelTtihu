@@ -1,13 +1,13 @@
 import AboutMe from "./section/AboutMe";
-import Experience from "./section/Experience";
+import Resume from "./section/Resume";
 
 function About() {
     return(
         <main>
             <AboutMe />
-            <Experience />
+            <Resume />
         </main>
     );
 }
 
-export default About
+export default About;
