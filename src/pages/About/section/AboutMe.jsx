@@ -14,7 +14,7 @@ function AboutMe() {
                                 <h3 className="text-base md:text-lg border-2 px-2 py-1 max-w-max rounded-xl font-space flex items-center gap-2"><MdOutlineQuestionMark />Who am I</h3>
                                 <h4 className="text-2xl md:text-4xl font-inter font-bold">I'm Marvel, a Fullstack Web Developer
                                 </h4>
-                                <p className="text-lg md:text-xl font-inter">
+                                <p className="text-lg md:text-xl font-inter text-justify">
                                     I am a developer focused on building responsive, high-performing websites and functional applications with a clean design and friendly user experiences. My tech journey actually started with Python and AI/ML, which gave me a solid analytical foundation and sharp problem-solving skills before I found my true passion in full-stack development. Therefore, I will continue my journey as a web developer and keep learning, learning, and learning.
                                 </p>
                                 <p className="font-bold font-space text-xl mt-2">I want to be a better person.</p>
