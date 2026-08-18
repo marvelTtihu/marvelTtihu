@@ -1,7 +1,7 @@
 import Hero from "./section/Hero"
 import Intro from "./section/Intro"
 import FeaturedProjects from "./section/FeaturedProjects"
-import CTA from "./section/CTA"
+import CTA from "../../components/CTA"
 
 function Home() {
     return(
