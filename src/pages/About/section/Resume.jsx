@@ -9,7 +9,7 @@ function Resume() {
 
                     {/* Experience section */}
                     <section className='flex flex-col items-center gap-8 md:gap-12 text-justify max-w-xl w-full'>
-                        <h3 className="self-start text-2xl md:text-3xl font-space font-bold">
+                        <h3 className="self-start text-2xl md:text-4xl font-space font-bold">
                             My Experience
                         </h3>
                         <article className='mb-8 md:mb-0 border-l-2 pl-4 flex-1'>
@@ -37,7 +37,7 @@ function Resume() {
                     
                     {/* Education section */}
                     <section className='flex flex-col items-center gap-8 md:gap-12 text-justify max-w-xl w-full'>
-                        <h3 className='self-start font-bold font-space text-2xl md:text-3xl'>My Education</h3>
+                        <h3 className='self-start font-bold font-space text-2xl md:text-4xl'>My Education</h3>
                         <article className='mb-8 md:mb-0 border-l-2 pl-4 flex-1'>
                             <h4 className='text-xl md:text-2xl mb-2 font-space font-bold'>High School</h4>
                             <p className='font-semibold font-inter mb-2'>2023 - 2026</p>
