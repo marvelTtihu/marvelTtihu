@@ -29,7 +29,7 @@ function Resume() {
                         <article className='mb-8 md:mb-0 border-l-2 pl-4 flex-1'>
                             <h3 className='text-xl md:text-2xl mb-2 font-space font-bold'><span className='text-yellow-500'>Full-Stack Web</span> Developer</h3>
                             <p className='font-semibold font-inter mb-2'>2025 - Current</p>
-                            <p className='font-inter'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+                            <p className='font-inter'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquaf</p>
                         </article>
                     </div>
                     <div className='flex flex-col items-center gap-8 md:gap-12 text-justify max-w-xl w-full'>
