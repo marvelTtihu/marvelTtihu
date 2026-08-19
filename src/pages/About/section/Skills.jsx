@@ -9,7 +9,7 @@ function Skills() {
                 <article className="flex-1 flex flex-col gap-2 items-center rounded-xl shadow-md border border-gray-200 p-4">
                     <h3 className="mb-4 font-space font-bold text-xl md:text-2xl">Frontend</h3>
                     <div className="flex gap-4 font-inter text-lg md:text-xl">
-                        <p className="bg-orange-200 px-4">HTML/CSS</p>
+                        <p className="bg-orange-200 px-4">HTML</p>
                         <p className="bg-yellow-200 px-4">Javascript</p>
                         <p className="bg-blue-200 px-4">React.js</p>
                     </div>
